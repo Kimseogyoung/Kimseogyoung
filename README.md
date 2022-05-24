@@ -1,5 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=rounded&fontColor=FFFFFF&color=0:92B4EC,80:FFE69A,100:FFD24C&height=200&text=Kim%20Seogyoung&animation=fadeIn&desc=Hi!%20Here%20is%20my%20profile&descSize=20&descAlignY=75&descAlign=70)
+ 
+[![header](https://capsule-render.vercel.app/api?type=rounded&fontColor=FFFFFF&color=0:92B4EC,80:FFE69A,100:FFD24C&height=200&text=Kim%20Seogyoung&animation=fadeIn&desc=Hi!%20Here%20is%20my%20profile&descSize=20&descAlignY=75&descAlign=70)]
 
 
 <h5>🍔 간단 소개 🥯</h5>
