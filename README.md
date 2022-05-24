@@ -22,7 +22,7 @@
 
 
 <h5>🐤 SNS 🐤</h5>
- <a href="https://www.instagram.com/rlaehdrud/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://blog.naver.com/colisel" target="_blank"><img src=" https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+ <a href="https://www.instagram.com/rlaehdrud/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <a href="https://blog.naver.com/colisel" target="_blank"><img src=" https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
  
 
 </br>
