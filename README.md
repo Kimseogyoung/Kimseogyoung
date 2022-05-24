@@ -1,6 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=rounded&fontColor=FFFFFF&color=0:92B4EC,80:FFE69A,100:FFD24C&height=200&text=Kim%20Seogyoung&animation=fadeIn&desc=Hi!%20Here%20is%20my%20profile&descSize=20&descAlignY=75&descAlign=70)
 
-<div align="center">
+
 <h5>🍔 간단 소개 🥯</h5>
 게임 클라이언트 개발 공부하는 김서경입니다.
 
@@ -21,7 +22,8 @@
 
 
 <h5>🐤 SNS 🐤</h5>
- <a href="https://www.instagram.com/rlaehdrud/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><a href="https://blog.naver.com/colisel" target="_blank"><img src=" https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+ <a href="https://www.instagram.com/rlaehdrud/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+ <a href="https://blog.naver.com/colisel" target="_blank"><img src=" https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
  
 
 </br>
