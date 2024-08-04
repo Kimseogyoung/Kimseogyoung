@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/>
   <img src="https://img.shields.io/badge/mqtt-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <br/>
   <h6> AWS </h6>
   <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
@@ -40,6 +39,7 @@
   <img src="https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white"/>
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <br/>
   <h6> 배포 </h6>
   <img src="https://img.shields.io/badge/teamcity-000000?style=flat-square&logo=teamcity&logoColor=white"/>
