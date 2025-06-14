@@ -95,6 +95,6 @@
 </br>
 
   </div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimseogyoung&theme=buefy)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseogyoung&theme=buefy)
 </div>
 
