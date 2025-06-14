@@ -60,12 +60,14 @@
 </br>
 
 </br>
+
+ </br>
+ <h4>🚀 프로젝트 🚀</h4>
  
-<h4>🚀 프로젝트 🚀</h4>
-<h6> 메타버스킹(2021) : 국민대학교 캡스톤 디자인 프로젝트 </h6>
-<code>- 메타버스 음원 재생, 버스킹 어플리케이션<br/>
-- Unity, MongoDb, NodeJS<br/>
-- 클라이언트 개발<br/>
+<h6> 그랑사가 키우기(2023.01 ~ 2024.05.23 출시) : 엔픽셀(파이드픽셀즈)</h6> 
+<code>- 수집, 방치형 모바일 RPG 게임
+- Unity, ASP.Net, C#, AWS, Docker, Nginx, Mysql, Redis, Mqtt...
+- 서버 컨텐츠 개발, Db설계, 서버 구축
 </code>
 
 </br>
@@ -76,12 +78,11 @@
 </code>
 
 </br>
-<h6> 그랑사가 키우기(2023.01 ~ 2024.05.23 출시) : 엔픽셀(파이드픽셀즈)</h6> 
-<code>- 수집, 방치형 모바일 RPG 게임
-- Unity, ASP.Net, C#, AWS, Docker, Nginx, Mysql, Redis, Mqtt...
-- 서버 컨텐츠 개발, Db설계, 서버 구축
+<h6> 메타버스킹(2021) : 국민대학교 캡스톤 디자인 프로젝트 </h6>
+<code>- 메타버스 음원 재생, 버스킹 어플리케이션<br/>
+- Unity, MongoDb, NodeJS<br/>
+- 클라이언트 개발<br/>
 </code>
-
 
 </br>
 </br>
