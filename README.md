@@ -95,7 +95,5 @@
 </br>
 </div>
 
-<div>
-![seogyoungsGitHubStats](https://github-readme-stats.vercel.app/api?username=kimseogyoung&theme=buefy)
-</div>
-
+![seogyoungsGitHubStats](https://github-readme-stats.vercel.app/api?username=kimseogyoung&theme=buefy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseogyoung&theme=buefy&layout=compact)
